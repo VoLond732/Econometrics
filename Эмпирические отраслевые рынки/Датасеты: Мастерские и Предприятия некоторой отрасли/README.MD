@@ -9,6 +9,7 @@ Placeid – ID города
 
 Библиография:
 Timothy F. Bresnahan, Peter C. Reiss, Entry in Monopoly Market, The Review of Economic
-Studies, Volume 57, Issue 4, October 1990, Pages 531–553, https://doi.org/10.2307/2298085
+Studies, Volume 57, Issue 4, October 1990, Pages 531–553.
+
 Olley G. S., Pakes A. The dynamics of productivity in the telecommunications equipment
 industry //Econometrica. – 1996. – Т. 64. – №. 6. – С. 1263.
